@@ -1,5 +1,5 @@
-e9db3b36b8fb42f5ee9e244977705e4b *DESCRIPTION
-8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+377f34a2255132dfc5c312ee45519f7b *DESCRIPTION
+ad4f623088f34d7baa3f784d78370f9b *NAMESPACE
 cee323d3b4d5a932b246e5e19f51a395 *R/lse.R
 febaab2a67aba3439805eb13f81ca3f4 *R/predict.scalreg.R
 8695dafebe984bb253601cb585d7a5d0 *R/print.scalreg.R
@@ -7,7 +7,7 @@ febaab2a67aba3439805eb13f81ca3f4 *R/predict.scalreg.R
 353bbaac27448fccff0df623704f9b73 *R/slassoEst.R
 839656fe84b6d740c3dfe6cac715b65a *R/slassoInv.R
 6b0105ee6a40106e3a7a8aecf351c1a6 *data/datalist
-d8f557cd0f9a84ce1df4ec26cb2c580e *data/sp500.RData
+233e490aa7c036b6680bace7fa62d5aa *data/sp500.RData
 b67ba70eca0dc8ef1c18836f3b387eb5 *man/predict.scalreg.Rd
 b09753fd47bdfbe4a19dc68bf28e1296 *man/print.scalreg.Rd
 2b3612d1390d93f4d933a2d5e947da14 *man/scalreg-internal.Rd
